@@ -73,7 +73,7 @@ There has been a steady decrease of the number of accidents over the years which
 
 
 See the full analysis in the [jupyter notebook](./Aviation_Accidents_JB.ipynb) or review this [Presentation](./Presentation.pdf).
-
+See the tableau analysis [here](https://public.tableau.com/views/AviationAnalysis_17324422919750/Sheet5?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 For additional info, contact Jane Bahati at jaynembahati@gmail.com
 
 
